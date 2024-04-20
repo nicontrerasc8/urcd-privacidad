@@ -19,15 +19,19 @@ export default function Home() {
             <main className={styles.main}>
                 <h1 className={styles.title}>Mafe:</h1>
                 <p className={styles.content}>
-                La verdad, me quedan cortas las palabras en la oración para agradecerle a Dios por esto que estamos teniendo. Ya te lo he dicho, estoy bien enamorado de ti. No solo porque eres guapa y me atraes físicamente, sino que me encanta tu forma de ser, tu forma de pensar, tu forma de vivir la fe, tu forma de apoyar mis planes, tu forma de buscar siempre mi bienestar. Me quedo corto si quiero agradecerle a Dios por toda la verdad.
-                    <br /><br />
-                    Y creo que ya te lo he dicho, pero me enamoré de ti cuando empecé a escucharte en Brasil. Hoy en día un joven católico tendría que ir hasta fondo del mar para encontrar una mujer tan piadosa, respetuosa y pura como tú. Me motivas a ser mejor. Siento que antes mi vida era muy buena, tenia casi todo lo que necesita un cristiano: los sacramentos, la oración y todo lo que ya sabemos que nos acerca a Dios, pero me faltaba algo, un camino, una vocación cristiana, un trazo claro como camino para ir al Cielo. Creo que ese camino, esa vocación cristiana, la estoy encontrando en esta relación contigo que nos está llevando cerca de Dios. Ir a Misa ahora para mi es diferente, no solo me preocupo por ser santo yo, sino que ahora también me preocupo por ti y es hermoso, porque me está haciendo crecer en generosidad y caridad. Me estás haciendo mejor Mafe.
-                    <br /><br />
-                    Cuentas conmigo para rezar, hablar, que me cuentes tus problemas, para todo. Llegando al Cielo le agradeceré a Dios por haberte conocido. 
-<br/>Quiero y elegiría una y mil veces ir contigo por ese camino estrecho que lleva al Cielo. Estoy super motivado por lo que viene.
-
+                En medio de la ansiedad y decepción que estás sintiendo, creo que es oportuno que te escriba una palabra que para nosotros va a ser vital si queremos que esto funcione:
+                <br/>
+                Perdón.
+                <br/>
+                Por ser tan egoísta, tan indiferente, tan amargo. No quiero hablar más de mí, nuestra relación no debe ser así. He estado tan ocupado y ansioso en estas semanas que no me he dado el tiempo de darte la palabra, de escucharte.
+                <br/>
+                Es difícil para nosotros los hombres escuchar detenidamente y con ese cariño con el que escuchan las mujeres., pero, así como es difícil, es un deber que tengo para que esta relación funcione. Así como tú escuchas, aconsejas, esperas, y amas, mereces a alguien que por lo menos esté dispuesto a escucharte en el momento un audio de un minuto y un poco más. Y no lo he sido. 
+                <br/>
+                Creo que los dos queremos que esto funcione, porque sentimos que esto es de Dios y muchas veces nos acerca, nos alegra, pero necesito que me des una chance de mejorar ese defecto que tengo. Quiero llegar ahorita con un ramo de flores y una caja de chocolates a tu casa en agradecimiento a todo lo que hemos pasado esta semana, pero me dijiste que no son necesarios esos detalles. Creo que otro tipo de detalle te hará mejor: que te escuche con la misma atención con la que nos escucha Dios. Porque lo mereces Mafe, lo mereces.
+                <br/>
+                No te puedo prometer siempre estar ahí, porque soy un hombre limitado, pero te puedo prometer dar lo mejor para cambiar, poniendo eso en la oración. Si lo ponemos en Dios, Él nos escuchará, tenlo por seguro.
                 </p>
-                <p className={styles.signature}>Love u,<br />Nico</p>
+                <p className={styles.signature}>Perdón por ser un tonto, gracias por tanto, <br/>Nico</p>
             </main>
         </div>
     </>
