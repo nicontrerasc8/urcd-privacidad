@@ -25,7 +25,7 @@ export default function Home() {
                 <br/>
                 Por ser tan egoísta, tan indiferente, tan amargo. No quiero hablar más de mí, nuestra relación no debe ser así. He estado tan ocupado y ansioso en estas semanas que no me he dado el tiempo de darte la palabra, de escucharte.
                 <br/>
-                Es difícil para nosotros los hombres escuchar detenidamente y con ese cariño con el que escuchan las mujeres. Pero, así como es difícil, es un deber que tengo para que esta relación funcione. Así como tú escuchas, aconsejas, esperas, y amas, mereces a alguien que por lo menos esté dispuesto a escucharte en el momento un audio de un minuto y un poco más. Y no lo he sido. 
+                Es difícil para nosotros los hombres escuchar detenidamente y con ese cariño con el que escuchan las mujeres. Pero, así como es difícil, es un deber que tengo para que esta relación funcione. Así como tú escuchas, aconsejas, esperas, y amas, mereces a alguien que por lo menos esté dispuesto a escucharte en el momento un audio de un minuto y un poco más. Ese hombre que mereces no lo has visto en mi. 
                 <br/>
                 Creo que los dos queremos que esto funcione, porque sentimos que esto es de Dios y muchas veces nos acerca, nos alegra, pero necesito que me des una chance de mejorar ese defecto que tengo. Quiero llegar ahorita con un ramo de flores y una caja de chocolates a tu casa en agradecimiento a todo lo que hemos pasado esta semana, pero me dijiste que no son necesarios esos detalles. Creo que otro tipo de detalle te hará mejor: que te escuche con la misma atención con la que nos escucha Dios. Porque lo mereces Mafe, lo mereces.
                 <br/>
